@@ -1,0 +1,13 @@
+C:\Users\wzy\Desktop\LeetCode\Binary Search\35. Search Insert Position\bin\Debug\netcoreapp3.1\35. Search Insert Position.exe
+C:\Users\wzy\Desktop\LeetCode\Binary Search\35. Search Insert Position\bin\Debug\netcoreapp3.1\35. Search Insert Position.deps.json
+C:\Users\wzy\Desktop\LeetCode\Binary Search\35. Search Insert Position\bin\Debug\netcoreapp3.1\35. Search Insert Position.runtimeconfig.json
+C:\Users\wzy\Desktop\LeetCode\Binary Search\35. Search Insert Position\bin\Debug\netcoreapp3.1\35. Search Insert Position.runtimeconfig.dev.json
+C:\Users\wzy\Desktop\LeetCode\Binary Search\35. Search Insert Position\bin\Debug\netcoreapp3.1\35. Search Insert Position.dll
+C:\Users\wzy\Desktop\LeetCode\Binary Search\35. Search Insert Position\bin\Debug\netcoreapp3.1\35. Search Insert Position.pdb
+C:\Users\wzy\Desktop\LeetCode\Binary Search\35. Search Insert Position\obj\Debug\netcoreapp3.1\35. Search Insert Position.csprojAssemblyReference.cache
+C:\Users\wzy\Desktop\LeetCode\Binary Search\35. Search Insert Position\obj\Debug\netcoreapp3.1\35. Search Insert Position.AssemblyInfoInputs.cache
+C:\Users\wzy\Desktop\LeetCode\Binary Search\35. Search Insert Position\obj\Debug\netcoreapp3.1\35. Search Insert Position.AssemblyInfo.cs
+C:\Users\wzy\Desktop\LeetCode\Binary Search\35. Search Insert Position\obj\Debug\netcoreapp3.1\35. Search Insert Position.csproj.CoreCompileInputs.cache
+C:\Users\wzy\Desktop\LeetCode\Binary Search\35. Search Insert Position\obj\Debug\netcoreapp3.1\35. Search Insert Position.dll
+C:\Users\wzy\Desktop\LeetCode\Binary Search\35. Search Insert Position\obj\Debug\netcoreapp3.1\35. Search Insert Position.pdb
+C:\Users\wzy\Desktop\LeetCode\Binary Search\35. Search Insert Position\obj\Debug\netcoreapp3.1\35. Search Insert Position.genruntimeconfig.cache

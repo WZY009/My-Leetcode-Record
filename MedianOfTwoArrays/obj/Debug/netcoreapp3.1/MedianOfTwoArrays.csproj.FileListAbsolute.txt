@@ -1,0 +1,13 @@
+C:\Users\wzy\Desktop\LeetCode\MedianOfTwoArrays\obj\Debug\netcoreapp3.1\MedianOfTwoArrays.csprojAssemblyReference.cache
+C:\Users\wzy\Desktop\LeetCode\MedianOfTwoArrays\obj\Debug\netcoreapp3.1\MedianOfTwoArrays.AssemblyInfoInputs.cache
+C:\Users\wzy\Desktop\LeetCode\MedianOfTwoArrays\obj\Debug\netcoreapp3.1\MedianOfTwoArrays.AssemblyInfo.cs
+C:\Users\wzy\Desktop\LeetCode\MedianOfTwoArrays\obj\Debug\netcoreapp3.1\MedianOfTwoArrays.csproj.CoreCompileInputs.cache
+C:\Users\wzy\Desktop\LeetCode\MedianOfTwoArrays\bin\Debug\netcoreapp3.1\MedianOfTwoArrays.exe
+C:\Users\wzy\Desktop\LeetCode\MedianOfTwoArrays\bin\Debug\netcoreapp3.1\MedianOfTwoArrays.deps.json
+C:\Users\wzy\Desktop\LeetCode\MedianOfTwoArrays\bin\Debug\netcoreapp3.1\MedianOfTwoArrays.runtimeconfig.json
+C:\Users\wzy\Desktop\LeetCode\MedianOfTwoArrays\bin\Debug\netcoreapp3.1\MedianOfTwoArrays.runtimeconfig.dev.json
+C:\Users\wzy\Desktop\LeetCode\MedianOfTwoArrays\bin\Debug\netcoreapp3.1\MedianOfTwoArrays.dll
+C:\Users\wzy\Desktop\LeetCode\MedianOfTwoArrays\bin\Debug\netcoreapp3.1\MedianOfTwoArrays.pdb
+C:\Users\wzy\Desktop\LeetCode\MedianOfTwoArrays\obj\Debug\netcoreapp3.1\MedianOfTwoArrays.dll
+C:\Users\wzy\Desktop\LeetCode\MedianOfTwoArrays\obj\Debug\netcoreapp3.1\MedianOfTwoArrays.pdb
+C:\Users\wzy\Desktop\LeetCode\MedianOfTwoArrays\obj\Debug\netcoreapp3.1\MedianOfTwoArrays.genruntimeconfig.cache
