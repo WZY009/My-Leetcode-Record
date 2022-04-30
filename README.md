@@ -10,3 +10,14 @@
 1. leetcode 560 - First, you should know how to use preSum array to reduce the time complexity(although it still fails to AC). Then, you can use hashmap to store nums[j], which will reduce time complexity for another time.
 2. leetcode 370 - Difference array is the opposite form of preSum array. But both of them can reduce time complexity and show the essence of dynamic programming!
 3. leetcode 1109 - same as 370
+#### 4.28(4.30补一题)
+1. leetcode 1094 - nothing special.
+2. leetcode 167 - Pay attention to the quesiton - non decreasing array! So the first thing you need to know is using binary search.
+#### 4.29(4.30补)
+1. leetcode 26 - nothing sepcial. I do it very fast
+2. leetcode 83 - nothing sepcial. I do it very fast
+3. leetcode 27 - nothing sepcial. I do it very fast
+#### 4.30
+1. leetcode 283 - nothing sepcial. I do it very fast
+2. leetcode 167 - nothing sepcial. I do it very fast
+3. leetcode 5 - The way of judging whether it's palindrome string is crucial. Although these two ways' the time complextiy are same, the arguments will not be the same, which will increase time complexity by n times if you choose the worse one.
