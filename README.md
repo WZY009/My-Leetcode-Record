@@ -21,3 +21,11 @@
 1. leetcode 283 - nothing sepcial. I do it very fast
 2. leetcode 167 - nothing sepcial. I do it very fast
 3. leetcode 5 - The way of judging whether it's palindrome string is crucial. Although these two ways' the time complextiy are same, the arguments will not be the same, which will increase time complexity by n times if you choose the worse one.
+#### 5.1
+##### Weekly contest:
+😅第一题十五分钟写出来，找bug花了大半个小时，一会是循环的自增条件没写，一会是数组越界，花了好久才ac，第二题一眼过去就是hashmap，五分钟写出来，但是老是wa，找了半天bug超时了，后来去vs2019一跑发现是三目运算冒号两侧写反了😅
+结论：多打周赛！
+##### Tricky traversal:
+1. leetcode 48 - Rotate the matrix by its diagonal. Then reverse each row.
+2. leetcode 54 - Remember four bounds. Traverse in a specific order by using these bounds instead of 代码随想录, which is too difficult to understand and recall efficiently.
+3. leetcode 59 - same as 54
