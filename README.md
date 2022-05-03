@@ -29,3 +29,5 @@
 1. leetcode 48 - Rotate the matrix by its diagonal. Then reverse each row.
 2. leetcode 54 - Remember four bounds. Traverse in a specific order by using these bounds instead of 代码随想录, which is too difficult to understand and recall efficiently.
 3. leetcode 59 - same as 54
+#### 5.2（5.3补）
+1. leetcode 76 - Understanding 
