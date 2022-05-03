@@ -30,4 +30,10 @@
 2. leetcode 54 - Remember four bounds. Traverse in a specific order by using these bounds instead of 代码随想录, which is too difficult to understand and recall efficiently.
 3. leetcode 59 - same as 54
 #### 5.2（5.3补）
-1. leetcode 76 - Understanding 
+1. leetcode 76 - Understanding the sliding window frame
+2. leetcode 567 - Same as above
+3. leetcode 438 - Same as above
+#### 5.3 
+1. leetcode 3 - Pay attention to loop condition! you can use window[c] > 1 to make sure the left points to right pos.
+2. leetcode 704 - Nothing special
+3. leetcode 34 - How to define the left and right border by binary search? You just need to change the finishing condition. What's more, the final result may conclude illgal position, which means you should check it before return value(the order of if condition is crucial!) 
