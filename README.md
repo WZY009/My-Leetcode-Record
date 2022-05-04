@@ -41,4 +41,4 @@
 ##### The random alforithm is quite new for me. I think the quesitons selected by labuladong are quite good except for his tuition.😅
 1. leetcode 380 Insert Delete GetRandom O(1) - Using multi data structure to acheive some functions with constant time complexity
 2. leetcode 710 Random Pick with Blacklist - Although my method is also constant time complexity, I still get TLE😅. But the answer is quite tricky, labuladong doesn't need a new vector. He builds a link between those blacklist numbers and normal ones via hashmap.
-3. leetcode 382 Linked List Random Node - I use a vector to store each node, which costs a huge space waste. Labuladong uses mathematics method to decide each node's chance of being updated. Quite tricky!
+3. leetcode 382 Linked List Random Node - I use a vector to store each node, which costs a huge space waste. Labuladong uses mathematics method to decide each node's chance of being updated. Quite tricky! 
