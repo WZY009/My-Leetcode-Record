@@ -24,7 +24,7 @@
 #### 5.1
 ##### Weekly contest:
 😅第一题十五分钟写出来，找bug花了大半个小时，一会是循环的自增条件没写，一会是数组越界，花了好久才ac，第二题一眼过去就是hashmap，五分钟写出来，但是老是wa，找了半天bug超时了，后来去vs2019一跑发现是三目运算冒号两侧写反了😅
-结论：多打周赛！
+周赛，我劝你多打！😅难绷
 ##### Tricky traversal:
 1. leetcode 48 - Rotate the matrix by its diagonal. Then reverse each row.
 2. leetcode 54 - Remember four bounds. Traverse in a specific order by using these bounds instead of 代码随想录, which is too difficult to understand and recall efficiently.
@@ -37,3 +37,8 @@
 1. leetcode 3 - Pay attention to loop condition! you can use window[c] > 1 to make sure the left points to right pos.
 2. leetcode 704 - Nothing special
 3. leetcode 34 - How to define the left and right border by binary search? You just need to change the finishing condition. What's more, the final result may conclude illgal position, which means you should check it before return value(the order of if condition is crucial!) 
+#### 5.4
+##### The random alforithm is quite new for me. I think the quesitons selected by labuladong are quite good except for his tuition.😅
+1. leetcode 380 Insert Delete GetRandom O(1) - Using multi data structure to acheive some functions with constant time complexity
+2. leetcode 710 Random Pick with Blacklist - Although my method is also constant time complexity, I still get TLE😅. But the answer is quite tricky, labuladong doesn't need a new vector. He builds a link between those blacklist numbers and normal ones via hashmap.
+3. leetcode 382 Linked List Random Node - I use a vector to store each node, which costs a huge space waste. Labuladong uses mathematics method to decide each node's chance of being updated. Quite tricky!
