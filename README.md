@@ -55,4 +55,9 @@ I rarely meet monotonic stack question so I can't recall it immediately. The nex
 1. leetcode 739. Daily Temperatures
 2. leetcode 496. Next Greater Element I 
 3. leetcode 503. Next Greater Element II
-
+#### 5.8
+##### Weekly contest:
+第一题十五分钟写出来，速度还应该再快一点！
+第二题用了半个小时，属实难绷，主要是很久没有练二叉树题目了，对遍历有点手生，事实证明，周赛是极为有必要的！不仅能锻炼面试临场反应，也能锻炼手动构造example testcases，还能不定期复习一下已经生疏的知识点。
+第三题没做出来，主要还是长久不练DP,也没有形成自己的一套对于DP问题深入理解的体系，最近事情实在太多，dp这种比较难的问题先暂时放一放，把线性表、树、图这些数据结构练的熟熟透透再好好琢磨一下，当然，每周适当的做一点还是ok的。
+总结：参加周赛，十分必要，以快制快，压茬推进，层层压实，应来尽来，非必要不缺席
