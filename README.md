@@ -46,3 +46,13 @@
 1. leetcode 384. Shuffle an Array - Using Fisher-Yates-Shuffle Algorithm, which is similar to Reservoir Sampling Algorithm.
 2. leetcode 528. Random Pick with Weight - Using preSum array and binary search. There are lots of details so it's not easy to finish it.
 3. leetcode 875. Koko Eating Bananas - Another perspective for me to use binary. All the increasing or decreasing array can use binary search. This method didn't come to my mind at first, on the contarary, I use linear search. Of course it will exceed the time limits.
+#### 5.6
+1. leetcode 1011. Capacity To Ship Packages Within D Days - Same as 875. Koko Eating Bananas
+2. leetcode 410. Split Array Largest Sum - This question and the previous questions - 1011. Capacity To Ship Packages Within D Days are one and two sides of generalized binary search.
+3. leetcode 870. Advantage Shuffle - Greedy algorithm. You have to use pair to record the B[i]'s position or it will exceed time limit.
+#### 5.7（5.8补2，3）
+I rarely meet monotonic stack question so I can't recall it immediately. The next step is learning labuladon's list and set up a regulation to review the question done before.
+1. leetcode 739. Daily Temperatures
+2. leetcode 496. Next Greater Element I 
+3. leetcode 503. Next Greater Element II
+
