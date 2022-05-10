@@ -61,3 +61,11 @@ I rarely meet monotonic stack question so I can't recall it immediately. The nex
 第二题用了半个小时，属实难绷，主要是很久没有练二叉树题目了，对遍历有点手生，事实证明，周赛是极为有必要的！不仅能锻炼面试临场反应，也能锻炼手动构造example testcases，还能不定期复习一下已经生疏的知识点。
 第三题没做出来，主要还是长久不练DP,也没有形成自己的一套对于DP问题深入理解的体系，最近事情实在太多，dp这种比较难的问题先暂时放一放，把线性表、树、图这些数据结构练的熟熟透透再好好琢磨一下，当然，每周适当的做一点还是ok的。
 总结：参加周赛，十分必要，以快制快，压茬推进，层层压实，应来尽来，非必要不缺席
+#### 5.9(5.10 补)
+1. leetcode 316. Remove Duplicate Letters - Using monotonic stack's idea. There are three constraints. The first step is to fulfill the first two constraints. Using a stack and a isInStack map can be very easy to make it. Then, we can use another map to record whether the same letter will appear in the left string.
+2. leetcode 104. Maximum Depth of Binary Tree - Nothing special
+3. leetcode 543. Diameter of Binary Tree - Although this question is very easy and it has been sloved in the 2021 算法分析与设计 final exam. I find a better solution in the labuladong's tuition. In each traversal process, I can update the max diameter. So I don't need to travere the whole child-tree in each traversal.
+#### 5.10
+1. leetcode 144. Binary Tree Preorder Traversal - Nothing special
+2. leetcode 226. Invert Binary Tree - That's a horrible record that I can't make it!!! Why? I think the reason is that I don't get deep understand of traversal process and mistake the meaning of quesiton! I use level traversal at first, which is a huge mistake! 
+3. leetcode 116. Populating Next Right Pointers in Each Node - I use level traversal. But labuladong uses a new way that I've never seen it before. He put two nodes together so as to view the 2-forks tree as a 3-forks tree. He only needs to link the node1->next to node2.
