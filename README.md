@@ -69,3 +69,20 @@ I rarely meet monotonic stack question so I can't recall it immediately. The nex
 1. leetcode 144. Binary Tree Preorder Traversal - Nothing special
 2. leetcode 226. Invert Binary Tree - That's a horrible record that I can't make it!!! Why? I think the reason is that I don't get deep understand of traversal process and mistake the meaning of quesiton! I use level traversal at first, which is a huge mistake! 
 3. leetcode 116. Populating Next Right Pointers in Each Node - I use level traversal. But labuladong uses a new way that I've never seen it before. He put two nodes together so as to view the 2-forks tree as a 3-forks tree. He only needs to link the node1->next to node2.
+
+### Long time no see!!!
+#### 5.18 
+1. leetcode 105. Construct Binary Tree from Preorder and Inorder Traversal - Well done. At this time, I use reference convey so as to reduce space cost. In Dec. 25th 2021, I don't really understand that.
+2. leetcode 654. Maximum Binary Tree - Well done!
+#### 5.19 
+1. leetcode 889. Construct Binary Tree from Preorder and Postorder Traversal - Don't confuse this question and lc 105! You should use less than 2 minutes to slove it.
+2. leetcode 297. Serialize and Deserialize Binary Tree - Two method. The first one is preorder traversal, the other one is using descent traversal. The details
+3. leetcode 652. Find Duplicate Subtrees - The key point is serialization! A vital fact: Any preorder and postorder series(include null pointer) can represent a unique binary tree! Serialize the subtree and store it into a umap. Every time you can check whether there is a same series in the umap.
+#### 5.20 
+1. leetcode 912. Sort an Array - Don't think mergesort() is very easy to build! You have to understand how sort() and merge() worked! Specially merge()
+2. leetcode 88. Merge Sorted Array - Using reverse dual pointers to reduce space complexity! A tricky way!
+3. leetcode 315. Count of Smaller Numbers After Self - A kind of partial relation question. The details are very clear in the labuladong's explanation!
+#### 5.21 
+1. leetcode 493. Reverse Pairs - A kind of partial relation question. Mergesort is very convenient to slove partial relationship problem. You just need to add something in merge() so as to get the result. But remember, you can use ascending attribute to optimize the process.
+2. leetcode 327. Count of Range Sum - This question is very tricky. You need to use preSum to reduce the order of array. Then, you use mergesort to record the pair meeting the requirement. The details are shown in https://leetcode.cn/problems/count-of-range-sum/solution/qu-jian-he-de-ge-shu-by-leetcode-solution/
+3. leetcode 230. Kth Smallest Element in a BST - Just like kth smallest element in a descending array. I just use a inorder traversal to slove it easily.

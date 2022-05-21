@@ -1,0 +1,29 @@
+﻿  6068. Maximum White Tiles Covered by a Carpet.cpp
+C:\Users\wzy\Desktop\LeetCode\WeeklyContest\May14th\6068. Maximum White Tiles Covered by a Carpet\6068. Maximum White Tiles Covered by a Carpet.cpp(18,27): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\wzy\Desktop\LeetCode\WeeklyContest\May14th\6068. Maximum White Tiles Covered by a Carpet\6068. Maximum White Tiles Covered by a Carpet.cpp(22,1): warning C4244: “+=”: 从“__int64”转换到“int”，可能丢失数据
+C:\Users\wzy\Desktop\LeetCode\WeeklyContest\May14th\6068. Maximum White Tiles Covered by a Carpet\6068. Maximum White Tiles Covered by a Carpet.cpp(28,23): warning C4244: “return”: 从“__int64”转换到“int”，可能丢失数据
+C:\Users\wzy\Desktop\LeetCode\WeeklyContest\May14th\6068. Maximum White Tiles Covered by a Carpet\6068. Maximum White Tiles Covered by a Carpet.cpp(36,41): error C3750: "常数": 属性说明符中出现意外标记
+C:\Users\wzy\Desktop\LeetCode\WeeklyContest\May14th\6068. Maximum White Tiles Covered by a Carpet\6068. Maximum White Tiles Covered by a Carpet.cpp(36,45): error C3750: "常数": 属性说明符中出现意外标记
+C:\Users\wzy\Desktop\LeetCode\WeeklyContest\May14th\6068. Maximum White Tiles Covered by a Carpet\6068. Maximum White Tiles Covered by a Carpet.cpp(36,48): error C3750: "]": 属性说明符中出现意外标记
+C:\Users\wzy\Desktop\LeetCode\WeeklyContest\May14th\6068. Maximum White Tiles Covered by a Carpet\6068. Maximum White Tiles Covered by a Carpet.cpp(36,50): error C3750: "[": 属性说明符中出现意外标记
+C:\Users\wzy\Desktop\LeetCode\WeeklyContest\May14th\6068. Maximum White Tiles Covered by a Carpet\6068. Maximum White Tiles Covered by a Carpet.cpp(36,51): error C3750: "常数": 属性说明符中出现意外标记
+C:\Users\wzy\Desktop\LeetCode\WeeklyContest\May14th\6068. Maximum White Tiles Covered by a Carpet\6068. Maximum White Tiles Covered by a Carpet.cpp(36,54): error C3750: "常数": 属性说明符中出现意外标记
+C:\Users\wzy\Desktop\LeetCode\WeeklyContest\May14th\6068. Maximum White Tiles Covered by a Carpet\6068. Maximum White Tiles Covered by a Carpet.cpp(36,56): error C3750: "]": 属性说明符中出现意外标记
+C:\Users\wzy\Desktop\LeetCode\WeeklyContest\May14th\6068. Maximum White Tiles Covered by a Carpet\6068. Maximum White Tiles Covered by a Carpet.cpp(36,58): error C3750: "[": 属性说明符中出现意外标记
+C:\Users\wzy\Desktop\LeetCode\WeeklyContest\May14th\6068. Maximum White Tiles Covered by a Carpet\6068. Maximum White Tiles Covered by a Carpet.cpp(36,59): error C3750: "常数": 属性说明符中出现意外标记
+C:\Users\wzy\Desktop\LeetCode\WeeklyContest\May14th\6068. Maximum White Tiles Covered by a Carpet\6068. Maximum White Tiles Covered by a Carpet.cpp(36,63): error C3750: "常数": 属性说明符中出现意外标记
+C:\Users\wzy\Desktop\LeetCode\WeeklyContest\May14th\6068. Maximum White Tiles Covered by a Carpet\6068. Maximum White Tiles Covered by a Carpet.cpp(36,66): error C3750: "]": 属性说明符中出现意外标记
+C:\Users\wzy\Desktop\LeetCode\WeeklyContest\May14th\6068. Maximum White Tiles Covered by a Carpet\6068. Maximum White Tiles Covered by a Carpet.cpp(36,68): error C3750: "[": 属性说明符中出现意外标记
+C:\Users\wzy\Desktop\LeetCode\WeeklyContest\May14th\6068. Maximum White Tiles Covered by a Carpet\6068. Maximum White Tiles Covered by a Carpet.cpp(36,69): error C3750: "常数": 属性说明符中出现意外标记
+C:\Users\wzy\Desktop\LeetCode\WeeklyContest\May14th\6068. Maximum White Tiles Covered by a Carpet\6068. Maximum White Tiles Covered by a Carpet.cpp(36,73): error C3750: "常数": 属性说明符中出现意外标记
+C:\Users\wzy\Desktop\LeetCode\WeeklyContest\May14th\6068. Maximum White Tiles Covered by a Carpet\6068. Maximum White Tiles Covered by a Carpet.cpp(36,76): error C3750: "]": 属性说明符中出现意外标记
+C:\Users\wzy\Desktop\LeetCode\WeeklyContest\May14th\6068. Maximum White Tiles Covered by a Carpet\6068. Maximum White Tiles Covered by a Carpet.cpp(36,78): error C3750: "[": 属性说明符中出现意外标记
+C:\Users\wzy\Desktop\LeetCode\WeeklyContest\May14th\6068. Maximum White Tiles Covered by a Carpet\6068. Maximum White Tiles Covered by a Carpet.cpp(36,79): error C3750: "常数": 属性说明符中出现意外标记
+C:\Users\wzy\Desktop\LeetCode\WeeklyContest\May14th\6068. Maximum White Tiles Covered by a Carpet\6068. Maximum White Tiles Covered by a Carpet.cpp(36,83): error C3750: "常数": 属性说明符中出现意外标记
+C:\Users\wzy\Desktop\LeetCode\WeeklyContest\May14th\6068. Maximum White Tiles Covered by a Carpet\6068. Maximum White Tiles Covered by a Carpet.cpp(36,87): error C2143: 语法错误: 缺少“)”(在“,”的前面)
+C:\Users\wzy\Desktop\LeetCode\WeeklyContest\May14th\6068. Maximum White Tiles Covered by a Carpet\6068. Maximum White Tiles Covered by a Carpet.cpp(36,87): error C2660: “Solution::maximumWhiteTiles”: 函数不接受 0 个参数
+C:\Users\wzy\Desktop\LeetCode\WeeklyContest\May14th\6068. Maximum White Tiles Covered by a Carpet\6068. Maximum White Tiles Covered by a Carpet.cpp(14,9): message : 参见“Solution::maximumWhiteTiles”的声明
+C:\Users\wzy\Desktop\LeetCode\WeeklyContest\May14th\6068. Maximum White Tiles Covered by a Carpet\6068. Maximum White Tiles Covered by a Carpet.cpp(36,91): error C2059: 语法错误:“)”
+C:\Users\wzy\Desktop\LeetCode\WeeklyContest\May14th\6068. Maximum White Tiles Covered by a Carpet\6068. Maximum White Tiles Covered by a Carpet.cpp(36,99): error C2563: 在形参表中不匹配
+C:\Users\wzy\Desktop\LeetCode\WeeklyContest\May14th\6068. Maximum White Tiles Covered by a Carpet\6068. Maximum White Tiles Covered by a Carpet.cpp(36,99): error C2568: “<<”: 无法解析函数重载
+C:\Users\wzy\Desktop\LeetCode\WeeklyContest\May14th\6068. Maximum White Tiles Covered by a Carpet\6068. Maximum White Tiles Covered by a Carpet.cpp(36,99): message : 可能是“std::basic_ostream<_Elem,_Traits> &std::endl(std::basic_ostream<_Elem,_Traits> &)”
