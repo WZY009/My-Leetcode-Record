@@ -74,6 +74,7 @@ I rarely meet monotonic stack question so I can't recall it immediately. The nex
 #### 5.18 
 1. leetcode 105. Construct Binary Tree from Preorder and Inorder Traversal - Well done. At this time, I use reference convey so as to reduce space cost. In Dec. 25th 2021, I don't really understand that.
 2. leetcode 654. Maximum Binary Tree - Well done!
+
 #### 5.19 
 1. leetcode 889. Construct Binary Tree from Preorder and Postorder Traversal - Don't confuse this question and lc 105! You should use less than 2 minutes to slove it.
 2. leetcode 297. Serialize and Deserialize Binary Tree - Two method. The first one is preorder traversal, the other one is using descent traversal. The details
@@ -86,3 +87,21 @@ I rarely meet monotonic stack question so I can't recall it immediately. The nex
 1. leetcode 493. Reverse Pairs - A kind of partial relation question. Mergesort is very convenient to slove partial relationship problem. You just need to add something in merge() so as to get the result. But remember, you can use ascending attribute to optimize the process.
 2. leetcode 327. Count of Range Sum - This question is very tricky. You need to use preSum to reduce the order of array. Then, you use mergesort to record the pair meeting the requirement. The details are shown in https://leetcode.cn/problems/count-of-range-sum/solution/qu-jian-he-de-ge-shu-by-leetcode-solution/
 3. leetcode 230. Kth Smallest Element in a BST - Just like kth smallest element in a descending array. I just use a inorder traversal to slove it easily.
+
+#### Weekly contest May 22th(3/4):
+1. Weekly contest 2278. Percentage of Letter in String - Easy!
+2. Weekly contest 2279. Maximum Bags With Full Capacity of Rocks - Greddy. Vey easy!
+3. Weekly contest 2280. Minimum Lines to Represent a Line Chart - I use slope of two points to judge whether these 3 points lies in the same line. But I didn't realize the overflow of double. The improvement is using dot multiple (of course you can't use int!)
+4. Weekly contest 2281. Sum of Total Strength of Wizards - Very difficult!!! It's amazon's intern question. Using monotonic stack to search for the covering range of each number. Then using summation formula to induct how to get result with a linear time complexity. Lastly, when you should mod is crucial. If you mod in the last step, it will overflow although you use long long type.
+
+#### 5.22
+1. leetcode 907. Sum of Subarray Minimums - It's monotonic stack typical application. Also it's tramsformation of weekly contest 2280. !!! You should know how the stack is complemented by each step. Of course there is a less time complexity solution but I still suggest you use two loops.
+2. leetcode 496. Next Greater Element I - Review but I still to solve it in time. I strongly suggest you follow the instruction by labuladong.
+
+#### 5.23
+1. leetcode 1038. Binary Search Tree to Greater Sum Tree - Review but I still to solve it in time. The most important part in this question is how to convey the value to the left child tree. - Tips: If you traverse BST inorder, you will get a ascent array. If you traverse BST inorder reversely, you will get a descent array. Thus, you just need a global value to store the result.
+2. leetcode 98. Validate Binary Search Tree - The most crucial one is also how to validate the child tree's all elements and the root node. The solution is same as the former question. You just need to define a global value(named: pre) to point to the root. The "pre" points to every element in the ascent array.
+3. leetcode 700. Search in a Binary Search Tree - Nothing special!
+4. leetcode 701. Insert into a Binary Search Tree - The sceond solution shown in example is to confuse you. Don't change the BST original shape! Or it will be very difficult! You need to find the suitable leaf node and insert your node into it.
+5. leetcode 450. Delete Node in a BST - There are two difficult points. The first one is how can you delete a node without know its father node. Of course you can use parenet poniter to record it but I think it will be very difficult. The most conveient way is to use recursion and the root's(at each call to recursion) child point to the return value(? maybe my description is not very clear). So you don't need an extra pointer. The second one is Classified discussion. 1. the target node has no children 2. the target node has left child 3. the target node has right child 4. the target node has two non-empty children. As for the situation 4, you just need to cut the target node's left child to the left child of the most left node in the target node's right child. (Little confusing, ha)
+
