@@ -113,3 +113,21 @@ Sort an Array - Quick Sort. Although it's one of the most basic algorithms in DS
 What's more, the quicksort can be seen as the construction of a BST. The mergesort is postorder traverse and the quciksort is inorder traverse.
 4. leetcode 215. Kth Largest Element in an Array - Easy
 5. leetcode 384. Shuffle an Array - Reviewing the Fisher-Yates Shffle Algorithms. The most crucial part of the algorithm is how to validate's algorith(The function can generate n! kinds of possible result)
+
+### Long time no see!!
+
+#### 6.4 
+1. leetcode 207. Course Schedule - Check whether there is a circle in the graph. 1. Create the graph 2. traverse the graph and determine if a circuit exists in the graph
+2. leetcode 210. Course Schedule II - The most crucial point is you have to know the postorder of traverse is the reversion of topological sort series.
+3. leetcode 111. Minimum Depth of Binary Tree - There are two common solutions to deal with. The first one is DFS. It is less space cost but more time cost. The other is BFS, which might cost much more space but you don't have to traverse all the tree nodes.
+4. leetcode 752. Open the Lock - I know I should use BFS, but I don't know how to traverse the whole solution space. The key is to build two functions. The first one is dialing upwards and the other is dialing downwards.
+
+#### 6.5 
+1. leetcode 773. Sliding Puzzle - Same as lc 752, the problem I did yesterday. I know I should use BFS but I don't how to traverse the whole solution space... The key is knowing how to describe the blank's moving. Each position has different moving pattern. In this case, you can use a two dimension array to record the moving pattern. 
+2. leetcode 277. Find the Celebrity - It's a typical graph problem. You can use a vector which store many pair recording each node's indegree and outdegree. The target is the indegree should be n - 1 and outdegree should be 0.
+3. leetcode 997. Find the Town Judge - Same as lc 277
+
+#### 6.6
+1. leetcode 130. Surrounded Regions. Same as lc 773. In this case, we can use a moving function to record the possible next status. If the next status is invalid, we can add a validation check. One more thing, you should pay attention to the problem of duplicate insert! You have to change the value insdie the for loop but not 
+2. leetcode 323. Number of Connected Components in an Undirected Graph - Use union find
+3. leetcode 990. Satisfiability of Equality Equations - Use UF. But you have to scan the array twice or you will miss the impact from the order. If the test example is ["a==b","b!=c","c==a"], you have to check the unequal relationship again!
