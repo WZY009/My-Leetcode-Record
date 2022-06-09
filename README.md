@@ -131,3 +131,17 @@ What's more, the quicksort can be seen as the construction of a BST. The mergeso
 1. leetcode 130. Surrounded Regions. Same as lc 773. In this case, we can use a moving function to record the possible next status. If the next status is invalid, we can add a validation check. One more thing, you should pay attention to the problem of duplicate insert! You have to change the value insdie the for loop but not 
 2. leetcode 323. Number of Connected Components in an Undirected Graph - Use union find
 3. leetcode 990. Satisfiability of Equality Equations - Use UF. But you have to scan the array twice or you will miss the impact from the order. If the test example is ["a==b","b!=c","c==a"], you have to check the unequal relationship again!
+
+#### 6.7
+1. leetcode 261. Graph Valid Tree - Union find application. If you know how to create a uf, it is not difficult.
+2. leetcode 1135. Connecting Cities With Minimum Cost - Same as before.
+3. leetcode 1584. Min Cost to Connect All Points - Kruskral or Prim algorithm. But in this problem, you have to use Prim algorithm or it will be TLE!
+
+#### 6.8
+1. leetcode 785. Is Graph Bipartite? - You can use two array, the first one is the visited array, the visited array is used to record whether a node has been visited or not. The second one is used to record the color. By the way, you should use memset() or fill() to initialize the dynamic array.
+2. leetcode 886. Possible Bipartition - I have to record this quesiton. There is a very implicit condition inside. If A dislikes B, B must dislike A. While, it may be very difficult to understand. In our daily life, the hate for a person might be one direction. But in this quesion, the hate must be bidirectional. If A dislike B, A and B can not be in the same group, so the graph should record bidirectional edges
+
+#### 6.9
+1. leetcode 743. Network Delay Time - Basic Dijkstra algorithm's application. Labuladong's note is quite good! You should understand the essence of this algorithm. Furthermore, you should learn how to use emplace() API in the STL.
+2. leetcode 1514. Path with Maximum Probability - the maximum problem in Dijkstra algorithm. Many people think D's algorithm can only be used in the minimum problem while that's a huge mistake!
+3. leetcode 1631. Path With Minimum Effort - Pay attention! Labuladong doesn't mention that if you want to exit the loop in advance, you have to use priority_queue! Also, you have to understand the priority_queue in STL or you might convert the order!
