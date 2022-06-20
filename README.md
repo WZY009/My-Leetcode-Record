@@ -145,3 +145,10 @@ What's more, the quicksort can be seen as the construction of a BST. The mergeso
 1. leetcode 743. Network Delay Time - Basic Dijkstra algorithm's application. Labuladong's note is quite good! You should understand the essence of this algorithm. Furthermore, you should learn how to use emplace() API in the STL.
 2. leetcode 1514. Path with Maximum Probability - the maximum problem in Dijkstra algorithm. Many people think D's algorithm can only be used in the minimum problem while that's a huge mistake!
 3. leetcode 1631. Path With Minimum Effort - Pay attention! Labuladong doesn't mention that if you want to exit the loop in advance, you have to use priority_queue! Also, you have to understand the priority_queue in STL or you might convert the order!
+
+### Long time no see!!
+#### 6.19
+1. leetcode 146. LRU Cache - Use two basic data structure. The map is used to visit the node in O(1), and the doule list is used to record the order. If a node is visited, it should be taken to the tailer position. When you want to put one more node but you find the cache is full, you can move the head node.
+
+#### 6.20
+1. leetcode 460. LFU Cache - The key of this question is how to record the frequency and delete the node by frequency. You can use two maps to record the nodes(the second one should record the iterator of the node so that you can operate the origin node). YThe first one record the frequency and the second on record the key. Both of them have access to the nodes. The key is to understand the process completely. What you should do if you recall get() and put().
