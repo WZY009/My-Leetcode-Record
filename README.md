@@ -152,3 +152,11 @@ What's more, the quicksort can be seen as the construction of a BST. The mergeso
 
 #### 6.20
 1. leetcode 460. LFU Cache - The key of this question is how to record the frequency and delete the node by frequency. You can use two maps to record the nodes(the second one should record the iterator of the node so that you can operate the origin node). YThe first one record the frequency and the second on record the key. Both of them have access to the nodes. The key is to understand the process completely. What you should do if you recall get() and put().
+
+
+### Long time no see!!!
+#### 6.29
+1. leetcode 208. Implement Trie (Prefix Tree) - The note of labuladong is too hard to handle at first. The simple edition is also ok.
+2. leetcdoe 648. Replace Words - Use a new API - stringstream to handle the string with space split.
+3. leetcode 211. Design Add and Search Words Data Structure - The most difficult part is how to deal with wildcard character. We could use DFS to skip current node.
+4. leetcode 677. Map Sum Pairs - At first I made a mistake. I give every node a value. In fact, we should just give the value to the end of the word in the dictionary.
