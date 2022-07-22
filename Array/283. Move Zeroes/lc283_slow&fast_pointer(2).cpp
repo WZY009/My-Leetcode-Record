@@ -1,5 +1,6 @@
 // 2022 4.30 16：27
-// 2022 4.30 16:31 简单手撕个快慢指针
+// 2022 4.30 16:31 dual pointers
+
 
 class Solution {
 public:

@@ -1,4 +1,4 @@
-// 2022 5.21 15：30 ~ 15:43 (failed to slove)
+// 2022 5.21 15：30 ~ 15:43 (failed to slove)  
 // 2022 5.21 16：00 (After viewing the answer)
 class Solution {
 public:
@@ -7,7 +7,7 @@ public:
     
     void sort(vector<int>& nums, int begin, int end) {
         if(begin == end) return;
-        int mid = begin + ((end - begin) >> 1);
+        int mid = begin + ((end - begin) >> 1); // use move bit!
         sort(nums, begin, mid);
         sort(nums, mid + 1, end);
         merge(nums, begin, mid, end);
