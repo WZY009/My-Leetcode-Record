@@ -164,3 +164,4 @@ What's more, the quicksort can be seen as the construction of a BST. The mergeso
 ### Long time no see!!!
 #### 7.27
 1. leetcode 295. Find Median from Data Stream - Key is to use two priority queue to record the numbers larger than the middle and the numbers smaller or euqal than the middle. What's more, you should notice that the different size of these two queues should be less than 2! Specifically, the queMin.size() >= queMax.size()
+2. leetcode 703. Kth Largest Element in a Stream - Use small heap! You only need to focus on the Kth largest one and you can discard those smaller than Kth largest number.
