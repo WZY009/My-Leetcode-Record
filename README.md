@@ -160,3 +160,7 @@ What's more, the quicksort can be seen as the construction of a BST. The mergeso
 2. leetcdoe 648. Replace Words - Use a new API - stringstream to handle the string with space split.
 3. leetcode 211. Design Add and Search Words Data Structure - The most difficult part is how to deal with wildcard character. We could use DFS to skip current node.
 4. leetcode 677. Map Sum Pairs - At first I made a mistake. I give every node a value. In fact, we should just give the value to the end of the word in the dictionary.
+
+### Long time no see!!!
+#### 7.27
+1. leetcode 295. Find Median from Data Stream - Key is to use two priority queue to record the numbers larger than the middle and the numbers smaller or euqal than the middle. What's more, you should notice that the different size of these two queues should be less than 2! Specifically, the queMin.size() >= queMax.size()
